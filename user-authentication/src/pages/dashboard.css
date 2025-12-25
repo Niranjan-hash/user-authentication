@@ -1,0 +1,15 @@
+.dashboard div h1{
+   font-size: 120px;
+   letter-spacing: 10px;
+   word-spacing: 15px;
+   display: flex;
+   flex: 1 1 auto;
+}
+.dashboard body{
+width: 100vw;
+display:flex;
+justify-content: center;
+align-items: center;
+flex-wrap: nowrap;
+flex: 1 1 auto;
+}
